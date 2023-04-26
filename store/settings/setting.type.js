@@ -1,0 +1,1 @@
+export const SITE_MODE_CHANGE = 'SITE_MODE_CHANGE';
